@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/dd-plist-1.16.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.eclipse.jdt.core.compiler.ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.eclipse.jetty.apache-jsp-9.4.6.v20170531.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.mortbay.jasper.apache-el-8.5.9.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.mortbay.jasper.apache-jsp-8.5.9.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
